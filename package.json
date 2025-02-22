@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@astrojs/react": "3.0.9",
+    "@astrojs/svelte": "5.0.3",
+    "@astrojs/tailwind": "5.1.0",
+    "@astrojs/vercel": "6.1.2",
+    "@radix-ui/react-slider": "1.1.2",
+    "@types/react": "18.2.46",
+    "@types/react-dom": "18.0.6",
+    "astro": "^4.2.4",
+    "clsx": "2.1.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "svelte": "4.2.8",
+    "tailwindcss": "3.4.0",
+    "zustand": "4.4.3"
+  },
+  "name": "spotify-twitch-clone",
+  "scripts": {
+    "astro": "astro",
+    "build": "astro build",
+    "dev": "astro dev",
+    "preview": "astro preview",
+    "start": "astro dev"
+  },
+  "type": "module",
+  "version": "0.0.1"
+}
